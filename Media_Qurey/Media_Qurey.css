@@ -1,0 +1,161 @@
+@media (max-width: 991px) {
+    .w-ld-2 {
+        width: 42%;
+    }
+    /* Header */
+    .toogle {
+        display: block;
+        width: 40px;
+        height: 40px;
+        float: right;
+        background: transparent;
+        text-align: center;
+        font-size: 30px;
+        color: #efefef;
+        margin-left: 190px;
+    }
+    nav {
+        display: none;
+    }
+    /* --Banner---- */
+    .banner1 {
+        margin-top: 30px;
+        padding: 150px 20px 20px;
+    }
+    .play {
+        top: -0;
+        left: 50px;
+    }
+    /* WHY CHOOSE US */
+    .choose_us1 .choose_before {
+        bottom: 135px;
+        right: 20px;
+    }
+    .choose_us1 .choose_after {
+        top: -60px;
+        left: -25px;
+    }
+    /* ------Team----- */
+    .social {
+        bottom: -50px;
+        right: 46px;
+    }
+    /* -------Schedule_Appointment--- */
+    .Appointment_content {
+        width: 45%;
+    }
+    /* --TESTIMONIALS-- */
+    .review3 {
+        bottom: -35px;
+    }
+}
+
+
+/* ---------------------------------------------------------------------------- */
+
+@media (max-width: 767px) {
+    .w-md-1 {
+        width: 100%;
+    }
+    .w-md-2 {
+        width: 50%;
+    }
+    .w-md-3 {
+        width: 33.33%;
+    }
+    /* Banner */
+    .play {
+        top: -15px;
+        left: 40px;
+    }
+    .banner2 {
+        padding: 20px;
+    }
+    /* client */
+    .brand_image img {
+        width: 100%;
+        padding: 15px 15px;
+    }
+    /* -----About---- */
+    .Aboutus1 {
+        width: 100%;
+    }
+    .Aboutus2 {
+        margin-top: 100px;
+    }
+    /* brand_image1 */
+    .brand_image1 {
+        margin: 20px;
+    }
+    /* Service */
+    .s_1 {
+        width: 45%;
+    }
+    /* WHY CHOOSE US */
+    .choose_us1 {
+        align-items: center;
+        justify-content: center;
+        display: flex;
+    }
+    .choose_us1 img {
+        width: 50%;
+    }
+    .choose_us1 .choose_before {
+        bottom: -50px;
+    }
+    .choose_us1 .choose_after {
+        top: -40px;
+        left: 40px;
+    }
+    /* ----Team---- */
+    .team {
+        padding: 30px 0;
+    }
+    .team1 {
+        margin: 30px 0;
+    }
+    /* ------Protfolios-------- */
+    .overlay h3,
+    .overlay p {
+        font-size: 16px;
+        transform: translateY(95px);
+    }
+    /* Footer */
+    .w-md-4 {
+        width: 50%;
+    }
+    footer {
+        padding: 20px;
+    }
+}
+
+
+/* ---------------------------------------------------------------------------- */
+
+@media (max-width:575px) {
+    .w-sm-1 {
+        width: 100%;
+    }
+    /* ----------brand_image--- */
+    .brand_image1 img {
+        width: 50%;
+        margin-left: 120 px;
+    }
+    /* ---About-- */
+    .About1 .color_img {
+        top: 10px;
+    }
+    .About1 .hover_img {
+        top: 10px;
+    }
+    /* --Team-- */
+    .social {
+        right: 75px;
+    }
+    .Protfolios1 {
+        margin-bottom: 10px;
+    }
+    .Appointment_form {
+        margin: 0;
+    }
+}
